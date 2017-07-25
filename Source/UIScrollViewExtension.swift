@@ -28,11 +28,6 @@ public extension UIScrollView {
         addSubview(refreshView)
     }
 
-    public func startPullRefreshing() {
-        let refreshView = refreshViewWithTag(PullToRefreshConst.pullTag)
-        refreshView?.state = .refreshing
-    }
-
     public func stopPullRefreshing(removeView: Bool = false) {
         let refreshView = refreshViewWithTag(PullToRefreshConst.pullTag)
         if removeView {
@@ -45,11 +40,6 @@ public extension UIScrollView {
     public func removePullToRefreshView() {
         let refreshView = refreshViewWithTag(PullToRefreshConst.pullTag)
         refreshView?.removeFromSuperview()
-    }
-
-    public func startPushRefreshing() {
-        let refreshView = refreshViewWithTag(PullToRefreshConst.pushTag)
-        refreshView?.state = .refreshing
     }
 
     public func stopPushRefreshing(removeView: Bool = false) {
