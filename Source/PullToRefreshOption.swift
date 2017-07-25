@@ -7,14 +7,14 @@
 
 import UIKit
 
-struct PullToRefreshConst {
-    static let pullTag = 810
-    static let pushTag = 811
-    static let alpha = true
-    static let height: CGFloat = 80
-    static let imageName: String = "pulltorefresharrow.png"
-    static let animationDuration: Double = 0.5
-    static let fixedTop = true // PullToRefreshView fixed Top
+public struct PullToRefreshConst {
+    static public var pullTag = 810
+    static public var pushTag = 811
+    static public var alpha = true
+    static public var height: CGFloat = 80
+    static public var imageName: String = "pulltorefresharrow.png"
+    static public var animationDuration: Double = 0.5
+    static public var fixedTop = true // PullToRefreshView fixed Top
 }
 
 public struct PullToRefreshOption {
