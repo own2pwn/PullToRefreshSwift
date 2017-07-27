@@ -44,8 +44,9 @@
             <state relative-caret-position="475">
               <caret line="25" column="141" lean-forward="false" selection-start-line="25" selection-start-column="141" selection-end-line="25" selection-end-column="141" />
               <folding>
-                <marker date="1500993513000" expanded="true" signature="477:1049" ph="{...}" />
-                <marker date="1500993513000" expanded="true" signature="854:1047" ph="{...}" />
+                <marker date="1500993576000" expanded="true" signature="441:490" ph="{...}" />
+                <marker date="1500993576000" expanded="true" signature="526:1098" ph="{...}" />
+                <marker date="1500993576000" expanded="true" signature="903:1096" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -74,7 +75,7 @@
       <file leaf-file-name="UIScrollViewExtension.swift" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Source/UIScrollViewExtension.swift">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1387">
+            <state relative-caret-position="1167">
               <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
               <folding />
             </state>
@@ -183,7 +184,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292000" />
+    <option name="totallyTimeSpent" value="555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
@@ -222,8 +223,9 @@
         <state relative-caret-position="475">
           <caret line="25" column="141" lean-forward="false" selection-start-line="25" selection-start-column="141" selection-end-line="25" selection-end-column="141" />
           <folding>
-            <marker date="1500993513000" expanded="true" signature="477:1049" ph="{...}" />
-            <marker date="1500993513000" expanded="true" signature="854:1047" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="441:490" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="526:1098" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="903:1096" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -254,7 +256,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Source/UIScrollViewExtension.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
+        <state relative-caret-position="1167">
           <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
           <folding />
         </state>
@@ -265,8 +267,9 @@
         <state relative-caret-position="475">
           <caret line="25" column="141" lean-forward="false" selection-start-line="25" selection-start-column="141" selection-end-line="25" selection-end-column="141" />
           <folding>
-            <marker date="1500993513000" expanded="true" signature="477:1049" ph="{...}" />
-            <marker date="1500993513000" expanded="true" signature="854:1047" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="441:490" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="526:1098" ph="{...}" />
+            <marker date="1500993576000" expanded="true" signature="903:1096" ph="{...}" />
           </folding>
         </state>
       </provider>
